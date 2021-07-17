@@ -1,4 +1,9 @@
 p{
     Background: blue;
+}
+
+.flower {
+    display:flex;
+    flex-wrap: auto;
 
 }
